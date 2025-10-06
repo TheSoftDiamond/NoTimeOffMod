@@ -88,6 +88,11 @@ namespace NoTimeOff.Helpers
 
                     // Display days left    
                     HUDManager.Instance.DisplayDaysLeft(daysLeft);
+
+                    // Patch Buying Rate
+                    TimeOfDay.Instance.OnDayChanged();
+
+                    // 
                 }
             }
         }
