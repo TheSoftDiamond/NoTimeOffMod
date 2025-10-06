@@ -2,10 +2,13 @@
 
 This mod makes it so that going to the company moon costs a day like other moons! That's right--coming here to buy items, selling early, everything. It all costs money! **This mod is required on all clients for it to work properly.**
 
-## Future plans
+## Features
 
-- I plan to add more moon customization to the mod.
-- (Maybe) A chance to not count a day.
+- Subtracts a day from company mooon.
+- Updates company prices upon leaving from Company-like moons.
+- (Planned) A chance to not count a day. 
+- (Planned) Allow other company moon like planets to function the same.
+- (Planned) Config related to some of the suggested features.
 
 ## Known Issues
 
