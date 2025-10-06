@@ -6,9 +6,9 @@ This mod makes it so that going to the company moon costs a day like other moons
 
 - Subtracts a day from company mooon.
 - Updates company prices upon leaving from Company-like moons.
-- (Planned) A chance to not count a day. 
-- (Planned) Allow other company moon like planets to function the same.
-- (Planned) Config related to some of the suggested features.
+- _(Planned) A chance to not count a day._
+- _(Planned) Allow other company moon like planets to function the same._
+- _(Planned) Config related to some of the suggested features._
 
 ## Known Issues
 
