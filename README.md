@@ -12,7 +12,7 @@ This mod makes it so that going to the company moon costs a day like other moons
 
 ## Known Issues
 
-- There is an issue when cycling 1 Day Left to 0 Days left where the game will flash the deadline for a second on one of the screens. This shouldn't actually affect gameplay. 
+- There is an issue when cycling 1 Day Left to 0 Days left where the game will flash the deadline for a second on one of the screens. It may also do this when it hits deadline leaving from company. This shouldn't actually affect gameplay. 
 
 ## Known incompatibilities
 
